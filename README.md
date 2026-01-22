@@ -1,4 +1,10 @@
-<p align="center">Hi 👋, I'm Waddle<br><br>A passionate developer from United States</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=waddlledev.waddlledev&left_color=black"  />
+</div>
+
+###
+
+<p align="center">Hi 👋, I'm Waddle<br><br>A passionate developer from United States<br><br>I am working on IDMNetwork is cs2 hvh project</p>
 
 ###
 
@@ -16,7 +22,7 @@
   <a href="https://signal.me/#eu/p00SexJrpvxPWLC5KS5SFvAO_8qn3w3whC759sM6g-xA7BsSwBhEXritT6VRmuXj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="52" height="40" alt="signal logo"  />
   </a>
-  <a href="chrisdev1738@gmail.com" target="_blank">
+  <a href="mailto:chrisdev1738@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
