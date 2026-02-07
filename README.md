@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi 👋, I'm Waddle<br><br>A passionate developer from United States<br><br>I am working on IDMNetwork is cs2 hvh project</p>
+<p align="center">Hi 👋, I'm Waddle<br><br>A passionate developer from United States<br><br>I am working on Nothing </p>
 
 ###
 
